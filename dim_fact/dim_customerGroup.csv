@@ -1,0 +1,5 @@
+﻿CustomerGroupID,CustomerGroupName,CustomerGroupAlias,OpenCondition
+1,1 - gold azure,1 - gold azure,Customer age > 30
+2,2 - silver azure,2 - silver azure,Customer age between 20 and 30
+3,3 - Bronze azure,3 - Bronze azure,Customer age < 20
+4,4 - Platinum azure,4 - Platinum azure,Customer age > 40 and account balance > $10000

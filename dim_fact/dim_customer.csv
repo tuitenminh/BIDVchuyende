@@ -1,0 +1,6 @@
+﻿CustomerID,CustomerName,Age,CustomerGroupName,Gender,PhoneNumber,Email,Address,AccountOpeningDate
+1,John Doe,30,Gold,Male,555-1234,johndoe@email.com,123 Main St,2022-01-01
+2,Jane Smith,25,Silver,Female,555-5678,janesmith@email.com,456 Elm St,2022-02-01
+3,Bob Johnson,35,Bronze,Male,555-9012,bobjohnson@email.com,789 Oak St,2022-03-01
+4,Alice Williams,40,Platinum,Female,555-3456,alicewilliams@email.com,321 Maple St,2022-04-01
+5,Charlie Brown,28,Gold,Male,555-6789,charliebrown@email.com,654 Pine St,2022-05-01
